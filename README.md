@@ -283,16 +283,3 @@ sudo apt autoremove
 ```
 
 ---
-
-## Conclusion
-
-This set of commands should provide you with a basic security overview of your system. For more in-depth analysis, consider running full security audits and applying best practices for system hardening.
-
-```
-
----
-
-This markdown file can serve as a great starting point, but depending on your focus, you can add more tools or refine the suggestions. If you’re integrating any automated scripts or specific tools into your repo, you can expand this list with those commands as well.
-
-What do you think of this structure?
-```
